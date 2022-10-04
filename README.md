@@ -13,6 +13,8 @@ Each directory has "Print" versions (PDF format) and "Web" versions (JPG and PNG
 ## To Download an Image
 Navigate to the graphic you wish to download (you'll see the actual image), then click on the "Download" button above and to the right of the image.
 
+![How to download an image]([/assets/images/san-juan-mountains.jpg](https://raw.githubusercontent.com/NationalAvalancheCenter/north-american-public-avalanche-danger-scale/main/how-to-download.png))
+
 ## Danger Scale Colors
 View [this page](https://github.com/NationalAvalancheCenter/north-american-public-avalanche-danger-scale/blob/be91193160d8fd0c48bb59ca2f3ff35cacd96fcc/COLORS.md) for a table of Danger Scale colors in RGB, CMYK, and Hex.
 
