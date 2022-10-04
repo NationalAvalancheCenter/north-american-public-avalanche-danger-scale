@@ -6,7 +6,7 @@ The North American Public Avalanche Danger Scale (NAPADS) (Statham et al. 2010) 
 ## Directory Structure
 1. **Standard Danger Scale** - Danger Scale defintion table with travel advice, likelihood, and size and distribution.
 2. **Abbreviated Danger Scale (Travel Advice Only)** - Danger Scale defintion table with travel advice only.
-3. **Icons** - Danger Scale - Danger Scale icons, with and without number.
+3. **Icons** - Danger Scale icons, with and without danger level number.
 
 Each directory has "Print" versions (PDF format) and "Web" versions (JPG and PNG).
 
