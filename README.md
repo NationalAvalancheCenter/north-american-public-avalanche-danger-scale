@@ -6,7 +6,15 @@ The North American Public Avalanche Danger Scale (NAPADS) (Statham et al. 2010) 
 ## Directory Structure
 1. **Standard Danger Scale** - Danger Scale defintion table with travel advice, likelihood, and size and distribution.
 2. **Abbreviated Danger Scale (Travel Advice Only)** - Danger Scale defintion table with travel advice only.
-3. **Icons** - Danger Scale - Danger scale icons, with and without number.
+3. **Icons** - Danger Scale - Danger Scale icons, with and without number.
+
+Each directory has "Print" versions (PDF format) and "Web" versions (JPG and PNG).
+
+## To Download an Image
+Navigate to the graphic you wish to download (you'll see the actual image), then click on the "Download" button above and to the right of the image.
+
+## Danger Scale Colors
+View [this page](https://github.com/NationalAvalancheCenter/north-american-public-avalanche-danger-scale/blob/be91193160d8fd0c48bb59ca2f3ff35cacd96fcc/COLORS.md) for a table of Danger Scale colors in RGB, CMYK, and Hex.
 
 ## Contact
 For questions, please contact the National Avalanche Center: 
